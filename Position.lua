@@ -1,4 +1,4 @@
-local Utilities = require("Utilities")
+local Utilities = require("Blequi.Utilities")
 
 local Position = {}
 Position.__index = Position

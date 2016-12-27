@@ -1,5 +1,5 @@
-local Utilities = require("Utilities")
-local Position = require("Position")
+local Utilities = require("Blequi.Utilities")
+local Position = require("Blequi.Position")
 
 local Self = {}
 Self.__index = Self
